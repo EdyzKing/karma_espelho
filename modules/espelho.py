@@ -1,0 +1,1 @@
+# Mirror/Espelho logic module
